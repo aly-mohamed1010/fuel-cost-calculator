@@ -1,0 +1,6 @@
+flutter_native_splash:
+  color: "#ffffff"
+  image: assists/Gemini_Generated_Image_tt4o9wtt4o9wtt4o.jpeg
+  android_12:
+    image: assists/Gemini_Generated_Image_tt4o9wtt4o9wtt4o.jpeg
+    icon_background_color: "#ffffff"
